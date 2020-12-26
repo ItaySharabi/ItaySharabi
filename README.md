@@ -14,6 +14,6 @@
       
 - 🌱 I’m currently learning Java, Python, and C (And other variants of C).
 
-- 💬 Ask me about any of my projects, and challenge me with any Coding Problem!
+- 💬 Ask me about any of my projects.
 
 - 📫 How to reach me: itay.nextweb@gmail.com, or https://www.linkedin.com/in/itay-sharabi/
