@@ -3,6 +3,7 @@
     
     
 - 📫 Here you'll find: 
+      Some simple java projects like some algorithms from Algorithms course like array min/max, sorts and hopefully more. 
       Some complex java projects using the OOP approach, like 
       a game of Pokemons, graph structure designs and graph algorithms (Applied from
       Graph Theory).
