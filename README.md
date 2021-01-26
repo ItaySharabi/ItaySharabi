@@ -4,10 +4,10 @@
     
     
 - 📫 Here you'll find: 
-      Some complex java projects using the OOP approach, like 
+      Some complex java and python projects using the OOP approach, like 
       a game of Pokemons, graph structure designs and graph algorithms (Applied from
       Graph Theory).
-      Also some simple C projects, and soon some Python Projects! 
+      You can also find some C projects.
       
       
 - 🔭 I’m currently working on some medium sized projects (of 3-4 programmers), 
