@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/RcMJ6hw/cs-img1.jpg)
+![alt text](https://i.ibb.co/88tvBKH/cs-im1.jpg)
 ### Hi 👋, I'm Itay!
     I am currently a Computer Science and Mathematics student (Second year).
     
